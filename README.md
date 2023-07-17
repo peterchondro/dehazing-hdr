@@ -4,7 +4,7 @@ This repository demonstrates an a portion of image preprocessing that I proposed
 
 ## Getting Started
 
-To run this sample, you will need to have the OpenTK library installed. You can download it from the official OpenTK website: [https://opentk.net/](https://opentk.net/)
+To run this repository, you will need to have the OpenTK library installed. You can download it from the official OpenTK website: [https://opentk.net/](https://opentk.net/)
 
 ## Installation
 
@@ -18,7 +18,7 @@ To run this sample, you will need to have the OpenTK library installed. You can 
 
 ## Usage
 
-The sample project consists of a `Program_shadow` class that handles the rendering of the 2D image with shadow effects. You can use the class in your own application by following these steps:
+This project consists of a `Program_shadow` class that handles the rendering of the 2D image with shadow effects. You can use the class in your own application by following these steps:
 
 1. Open your existing or new project in Visual Studio.
 2. Add the necessary `using` statements at the beginning of your code:
@@ -34,7 +34,7 @@ using System.IO;
 using System.Windows.Forms;
 ```
 
-3. Copy the `Program_shadow` class from the sample project into your project.
+3. Copy the `Program_shadow` class from this project into your project.
 4. Create an instance of the `Program_shadow` class:
 
 ```csharp
@@ -88,8 +88,8 @@ You can modify these properties according to your requirements and experiment wi
 
 ## License
 
-This sample project is licensed under the [MIT License](LICENSE). Feel free to modify and use it in your own projects.
+This project is licensed under the [MIT License](LICENSE). Feel free to modify and use it in your own projects.
 
 ## Credits
 
-This sample project utilizes the OpenTK library, which is an open-source project. You can find more information about OpenTK on the official website: [https://opentk.net/](https://opentk.net/)
+This project utilizes the OpenTK library, which is an open-source project. You can find more information about OpenTK on the official website: [https://opentk.net/](https://opentk.net/)
