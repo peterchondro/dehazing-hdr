@@ -1,6 +1,6 @@
-# OpenTK Sample
+# Dehazing-Contrast Enhancement
 
-This is a sample project demonstrating the usage of OpenTK library for graphics programming. It includes a simple program that renders a 2D image with shadow effects.
+This repository demonstrates an a portion of image preprocessing that I proposed in 2020, which includes adjustments of each pixel value in order to remove haze/fog/light rain effect as well as to improve its contrast that could be deprecated from dehazing removal. This a re-implementation in C# using OpenTK context with CPU and fragment shader.
 
 ## Getting Started
 
