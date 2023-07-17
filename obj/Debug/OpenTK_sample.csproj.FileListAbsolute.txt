@@ -1,0 +1,17 @@
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\bin\Debug\OpenTK_sample.exe.config
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\bin\Debug\OpenTK_sample.exe
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\bin\Debug\OpenTK_sample.pdb
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\bin\Debug\OpenTK.dll
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\bin\Debug\OpenTK.GLControl.dll
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\bin\Debug\OpenTK.pdb
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\bin\Debug\OpenTK.xml
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\bin\Debug\OpenTK.GLControl.pdb
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\bin\Debug\OpenTK.GLControl.xml
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\obj\Debug\OpenTK_sample.csproj.AssemblyReference.cache
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\obj\Debug\OpenTK_sample.csproj.SuggestedBindingRedirects.cache
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\obj\Debug\OpenTK_sample.Properties.Resources.resources
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\obj\Debug\OpenTK_sample.csproj.GenerateResource.cache
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\obj\Debug\OpenTK_sample.csproj.CoreCompileInputs.cache
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\obj\Debug\OpenTK_sample.csproj.CopyComplete
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\obj\Debug\OpenTK_sample.exe
+C:\Users\aqaq9\Desktop\sample\opengl_tk_sampleCode_readfile\ViewSetting\OpenTK_sample\obj\Debug\OpenTK_sample.pdb
